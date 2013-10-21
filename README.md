@@ -1,4 +1,4 @@
-generator-bikeshed
-==================
+WIP.
+===
 
-Yeoman generator for the rehab bikeshed concept. 
+Trying out the Yeoman generator authoring process. Biscuits.
